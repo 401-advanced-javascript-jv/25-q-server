@@ -1,19 +1,16 @@
-# LAB - 19
+# LAB - 25 
 
-## Message Queue - Server
+## Message Queue - Queue Server
 
 ### Author: Jesse Van Volkinburg
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jv/19-server/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-jv/19-server)
-
-### Setup
-#### `.env` requirements
-- `QUEUE_SERVER` URL for the queue server - used for the demo app
+* [submission PR](https://github.com/401-advanced-javascript-jv/25-server/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-jv/25-server)
+* [backend message queue]()
 
 #### Running the app
-* `node app/app.js <filename>` to alter a file to make contents uppercase.
+* `npm start` to start the app
   
 #### Tests
 * `npm test` to run tests
