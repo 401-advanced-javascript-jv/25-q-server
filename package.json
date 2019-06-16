@@ -7,12 +7,16 @@
   },
   "dependencies": {
     "@nmq/q": "^1.0.3",
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
   },
   "jest": {
     "testEnvironment": "node"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
   "prettier": {
     "singleQuote": true,
     "trailingComma": "es5",
